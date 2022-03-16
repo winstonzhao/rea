@@ -1,0 +1,3078 @@
+[
+    {
+        "Suburb": "Abbotsbury",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Abbotsford",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Acacia Gardens",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Agnes Banks",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Airds",
+        "5yr Supply Growth": 520
+    },
+    {
+        "Suburb": "Alexandria",
+        "5yr Supply Growth": "1,280"
+    },
+    {
+        "Suburb": "Alfords Point",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Allambie Heights",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Allawah",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Ambarvale",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Annandale",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Annangrove",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Appin",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Arcadia",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Arncliffe",
+        "5yr Supply Growth": "1,470"
+    },
+    {
+        "Suburb": "Arndell Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Artarmon",
+        "5yr Supply Growth": 50
+    },
+    {
+        "Suburb": "Ashbury",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Ashcroft",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Ashfield",
+        "5yr Supply Growth": 480
+    },
+    {
+        "Suburb": "Asquith",
+        "5yr Supply Growth": 405
+    },
+    {
+        "Suburb": "Auburn",
+        "5yr Supply Growth": "1,730"
+    },
+    {
+        "Suburb": "Austral",
+        "5yr Supply Growth": 475
+    },
+    {
+        "Suburb": "Avalon Beach",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Badgerys Creek",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Balgowlah",
+        "5yr Supply Growth": 80
+    },
+    {
+        "Suburb": "Balgowlah Heights",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Balmain",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Balmain East",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bangor",
+        "5yr Supply Growth": 55
+    },
+    {
+        "Suburb": "Banksia",
+        "5yr Supply Growth": 60
+    },
+    {
+        "Suburb": "Banksmeadow",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bankstown",
+        "5yr Supply Growth": "1,825"
+    },
+    {
+        "Suburb": "Bankstown Aerodrome",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Barangaroo",
+        "5yr Supply Growth": 935
+    },
+    {
+        "Suburb": "Barden Ridge",
+        "5yr Supply Growth": 200
+    },
+    {
+        "Suburb": "Bardia",
+        "5yr Supply Growth": 770
+    },
+    {
+        "Suburb": "Bardwell Park",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Bardwell Valley",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Bargo",
+        "5yr Supply Growth": 50
+    },
+    {
+        "Suburb": "Bass Hill",
+        "5yr Supply Growth": 125
+    },
+    {
+        "Suburb": "Baulkham Hills",
+        "5yr Supply Growth": 655
+    },
+    {
+        "Suburb": "Bayview",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Beacon Hill",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Beaconsfield",
+        "5yr Supply Growth": 235
+    },
+    {
+        "Suburb": "Beaumont Hills",
+        "5yr Supply Growth": 60
+    },
+    {
+        "Suburb": "Beecroft",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Belfield",
+        "5yr Supply Growth": 305
+    },
+    {
+        "Suburb": "Belimbla Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bell",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bella Vista",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Bellevue Hill",
+        "5yr Supply Growth": 165
+    },
+    {
+        "Suburb": "Belmore",
+        "5yr Supply Growth": 475
+    },
+    {
+        "Suburb": "Belrose",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Berala",
+        "5yr Supply Growth": 75
+    },
+    {
+        "Suburb": "Berambing",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Berkshire Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Berowra",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Berowra Creek",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Berowra Heights",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Berowra Waters",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Berrilee",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Beverley Park",
+        "5yr Supply Growth": 100
+    },
+    {
+        "Suburb": "Beverly Hills",
+        "5yr Supply Growth": 85
+    },
+    {
+        "Suburb": "Bexley",
+        "5yr Supply Growth": 205
+    },
+    {
+        "Suburb": "Bexley North",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Bidwill",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Bilgola Beach",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bilgola Plateau",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Bilpin",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Birchgrove",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Birrong",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Blackett",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Blackheath",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Blacktown",
+        "5yr Supply Growth": "2,695"
+    },
+    {
+        "Suburb": "Blair Athol",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Blairmount",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Blakehurst",
+        "5yr Supply Growth": 180
+    },
+    {
+        "Suburb": "Blaxland",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Blaxlands Ridge",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bligh Park",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Blue Mountains National Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bondi",
+        "5yr Supply Growth": 95
+    },
+    {
+        "Suburb": "Bondi Beach",
+        "5yr Supply Growth": 215
+    },
+    {
+        "Suburb": "Bondi Junction",
+        "5yr Supply Growth": 780
+    },
+    {
+        "Suburb": "Bonnet Bay",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bonnyrigg",
+        "5yr Supply Growth": 755
+    },
+    {
+        "Suburb": "Bonnyrigg Heights",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Bossley Park",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Botany",
+        "5yr Supply Growth": 815
+    },
+    {
+        "Suburb": "Bow Bowing",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Bowen Mountain",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Box Hill",
+        "5yr Supply Growth": "1,520"
+    },
+    {
+        "Suburb": "Bradbury",
+        "5yr Supply Growth": 175
+    },
+    {
+        "Suburb": "Breakfast Point",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Brighton-le-Sands",
+        "5yr Supply Growth": 70
+    },
+    {
+        "Suburb": "Bringelly",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bronte",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Brooklyn",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Brookvale",
+        "5yr Supply Growth": 70
+    },
+    {
+        "Suburb": "Brownlow Hill",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bucketty",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Bullaburra",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Bundeena",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Bungarribee",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Burraneer",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Burwood",
+        "5yr Supply Growth": "2,125"
+    },
+    {
+        "Suburb": "Burwood Heights",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Busby",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Buxton",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cabarita",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cabramatta",
+        "5yr Supply Growth": 100
+    },
+    {
+        "Suburb": "Cabramatta West",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Caddens",
+        "5yr Supply Growth": 425
+    },
+    {
+        "Suburb": "Cambridge Gardens",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Cambridge Park",
+        "5yr Supply Growth": 50
+    },
+    {
+        "Suburb": "Camden",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Camden Park",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Camden South",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Camellia",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cammeray",
+        "5yr Supply Growth": 70
+    },
+    {
+        "Suburb": "Campbelltown",
+        "5yr Supply Growth": 715
+    },
+    {
+        "Suburb": "Camperdown",
+        "5yr Supply Growth": 180
+    },
+    {
+        "Suburb": "Campsie",
+        "5yr Supply Growth": 855
+    },
+    {
+        "Suburb": "Canada Bay",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Canley Heights",
+        "5yr Supply Growth": 55
+    },
+    {
+        "Suburb": "Canley Vale",
+        "5yr Supply Growth": 55
+    },
+    {
+        "Suburb": "Canoelands",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Canterbury",
+        "5yr Supply Growth": 765
+    },
+    {
+        "Suburb": "Caringbah",
+        "5yr Supply Growth": 570
+    },
+    {
+        "Suburb": "Caringbah South",
+        "5yr Supply Growth": 195
+    },
+    {
+        "Suburb": "Carlingford",
+        "5yr Supply Growth": 990
+    },
+    {
+        "Suburb": "Carlton",
+        "5yr Supply Growth": 345
+    },
+    {
+        "Suburb": "Carnes Hill",
+        "5yr Supply Growth": 75
+    },
+    {
+        "Suburb": "Carramar",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Carss Park",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Cartwright",
+        "5yr Supply Growth": 105
+    },
+    {
+        "Suburb": "Castle Cove",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Castle Hill",
+        "5yr Supply Growth": "2,540"
+    },
+    {
+        "Suburb": "Castlecrag",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Castlereagh",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Casula",
+        "5yr Supply Growth": 325
+    },
+    {
+        "Suburb": "Cataract",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Catherine Field",
+        "5yr Supply Growth": 260
+    },
+    {
+        "Suburb": "Cattai",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cawdor",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cecil Hills",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Cecil Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Centennial Park",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Central Colo",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Central Macdonald",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Chatswood",
+        "5yr Supply Growth": 445
+    },
+    {
+        "Suburb": "Chatswood West",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Cheltenham",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cherrybrook",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Chester Hill",
+        "5yr Supply Growth": 280
+    },
+    {
+        "Suburb": "Chifley",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Chippendale",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Chipping Norton",
+        "5yr Supply Growth": 105
+    },
+    {
+        "Suburb": "Chiswick",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Chullora",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Church Point",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Claremont Meadows",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Clarendon",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Clareville",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Claymore",
+        "5yr Supply Growth": 295
+    },
+    {
+        "Suburb": "Clemton Park",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Clontarf",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Clovelly",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Clyde",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Coasters Retreat",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cobbitty",
+        "5yr Supply Growth": 340
+    },
+    {
+        "Suburb": "Colebee",
+        "5yr Supply Growth": 500
+    },
+    {
+        "Suburb": "Collaroy",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Collaroy Plateau",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Colo",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Colo Heights",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Colyton",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Como",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Concord",
+        "5yr Supply Growth": 55
+    },
+    {
+        "Suburb": "Concord West",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Condell Park",
+        "5yr Supply Growth": 150
+    },
+    {
+        "Suburb": "Connells Point",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Constitution Hill",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Coogee",
+        "5yr Supply Growth": 155
+    },
+    {
+        "Suburb": "Cornwallis",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cottage Point",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Couridjah",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cowan",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cranebrook",
+        "5yr Supply Growth": 75
+    },
+    {
+        "Suburb": "Cremorne",
+        "5yr Supply Growth": 175
+    },
+    {
+        "Suburb": "Cremorne Point",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Cromer",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Cronulla",
+        "5yr Supply Growth": 495
+    },
+    {
+        "Suburb": "Crows Nest",
+        "5yr Supply Growth": 180
+    },
+    {
+        "Suburb": "Croydon",
+        "5yr Supply Growth": 155
+    },
+    {
+        "Suburb": "Croydon Park",
+        "5yr Supply Growth": 290
+    },
+    {
+        "Suburb": "Cumberland Reach",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Curl Curl",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Currans Hill",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Daceyville",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Dangar Island",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Darkes Forest",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Darling Point",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Darlinghurst",
+        "5yr Supply Growth": 180
+    },
+    {
+        "Suburb": "Darlington",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Davidson",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Dawes Point",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Dean Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Dee Why",
+        "5yr Supply Growth": 305
+    },
+    {
+        "Suburb": "Denham Court",
+        "5yr Supply Growth": "1,280"
+    },
+    {
+        "Suburb": "Denistone",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Denistone East",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Denistone West",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Dharruk",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Dolans Bay",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Dolls Point",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Doonside",
+        "5yr Supply Growth": 115
+    },
+    {
+        "Suburb": "Double Bay",
+        "5yr Supply Growth": 140
+    },
+    {
+        "Suburb": "Douglas Park",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Dover Heights",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Drummoyne",
+        "5yr Supply Growth": 275
+    },
+    {
+        "Suburb": "Duffys Forest",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Dulwich Hill",
+        "5yr Supply Growth": 260
+    },
+    {
+        "Suburb": "Dundas",
+        "5yr Supply Growth": 95
+    },
+    {
+        "Suburb": "Dundas Valley",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Dural",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Eagle Vale",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Earlwood",
+        "5yr Supply Growth": 100
+    },
+    {
+        "Suburb": "East Hills",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "East Killara",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "East Kurrajong",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "East Lindfield",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "East Ryde",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Eastern Creek",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Eastgardens",
+        "5yr Supply Growth": 330
+    },
+    {
+        "Suburb": "Eastlakes",
+        "5yr Supply Growth": 195
+    },
+    {
+        "Suburb": "Eastwood",
+        "5yr Supply Growth": 770
+    },
+    {
+        "Suburb": "Ebenezer",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Edensor Park",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Edgecliff",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Edmondson Park",
+        "5yr Supply Growth": "1,705"
+    },
+    {
+        "Suburb": "Elanora Heights",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Elderslie",
+        "5yr Supply Growth": 230
+    },
+    {
+        "Suburb": "Elizabeth Bay",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Elizabeth Hills",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Ellis Lane",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Elvina Bay",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Emerton",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Emu Heights",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Emu Plains",
+        "5yr Supply Growth": 60
+    },
+    {
+        "Suburb": "Enfield",
+        "5yr Supply Growth": 205
+    },
+    {
+        "Suburb": "Engadine",
+        "5yr Supply Growth": 365
+    },
+    {
+        "Suburb": "Englorie Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Enmore",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Epping",
+        "5yr Supply Growth": "1,720"
+    },
+    {
+        "Suburb": "Ermington",
+        "5yr Supply Growth": 80
+    },
+    {
+        "Suburb": "Erskine Park",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Erskineville",
+        "5yr Supply Growth": 600
+    },
+    {
+        "Suburb": "Eschol Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Eveleigh",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Fairfield",
+        "5yr Supply Growth": 380
+    },
+    {
+        "Suburb": "Fairfield East",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Fairfield Heights",
+        "5yr Supply Growth": 50
+    },
+    {
+        "Suburb": "Fairfield West",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Fairlight",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Faulconbridge",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Fernances",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Fiddletown",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Five Dock",
+        "5yr Supply Growth": 230
+    },
+    {
+        "Suburb": "Forest Glen",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Forest Lodge",
+        "5yr Supply Growth": 120
+    },
+    {
+        "Suburb": "Forestville",
+        "5yr Supply Growth": 65
+    },
+    {
+        "Suburb": "Freemans Reach",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Frenchs Forest",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Freshwater",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Galston",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Georges Hall",
+        "5yr Supply Growth": 105
+    },
+    {
+        "Suburb": "Gilead",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Girraween",
+        "5yr Supply Growth": 160
+    },
+    {
+        "Suburb": "Gladesville",
+        "5yr Supply Growth": 445
+    },
+    {
+        "Suburb": "Glebe",
+        "5yr Supply Growth": 230
+    },
+    {
+        "Suburb": "Gledswood Hills",
+        "5yr Supply Growth": 650
+    },
+    {
+        "Suburb": "Glen Alpine",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Glenbrook",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Glendenning",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Glenfield",
+        "5yr Supply Growth": 145
+    },
+    {
+        "Suburb": "Glenhaven",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Glenmore",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Glenmore Park",
+        "5yr Supply Growth": 560
+    },
+    {
+        "Suburb": "Glenorie",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Glenwood",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Glossodia",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Gordon1",
+        "5yr Supply Growth": 580
+    },
+    {
+        "Suburb": "Granville",
+        "5yr Supply Growth": "1,510"
+    },
+    {
+        "Suburb": "Grasmere",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Grays Point",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Great Mackerel Beach",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Green Valley",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Greenacre",
+        "5yr Supply Growth": 350
+    },
+    {
+        "Suburb": "Greendale",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Greenfield Park",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Greenhills Beach",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Greenwich",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Gregory Hills",
+        "5yr Supply Growth": "1,040"
+    },
+    {
+        "Suburb": "Greystanes",
+        "5yr Supply Growth": 315
+    },
+    {
+        "Suburb": "Grose Vale",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Grose Wold",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Guildford",
+        "5yr Supply Growth": 525
+    },
+    {
+        "Suburb": "Guildford West",
+        "5yr Supply Growth": 245
+    },
+    {
+        "Suburb": "Gymea",
+        "5yr Supply Growth": 150
+    },
+    {
+        "Suburb": "Gymea Bay",
+        "5yr Supply Growth": 65
+    },
+    {
+        "Suburb": "Haberfield",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Hammondville",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Harrington Park",
+        "5yr Supply Growth": 225
+    },
+    {
+        "Suburb": "Harris Park",
+        "5yr Supply Growth": 60
+    },
+    {
+        "Suburb": "Hassall Grove",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Hawkesbury Heights",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Haymarket",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Hazelbrook",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Heathcote",
+        "5yr Supply Growth": 65
+    },
+    {
+        "Suburb": "Hebersham",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Heckenberg",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Henley",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Higher Macdonald",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Hillsdale",
+        "5yr Supply Growth": 250
+    },
+    {
+        "Suburb": "Hinchinbrook",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Hobartville",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Holroyd",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Holsworthy",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Homebush",
+        "5yr Supply Growth": "1,610"
+    },
+    {
+        "Suburb": "Homebush West",
+        "5yr Supply Growth": 205
+    },
+    {
+        "Suburb": "Horningsea Park",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Hornsby",
+        "5yr Supply Growth": 455
+    },
+    {
+        "Suburb": "Hornsby Heights",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Horsley Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Hoxton Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Hunters Hill",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Huntingwood",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Huntleys Cove",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Huntleys Point",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Hurlstone Park",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Hurstville",
+        "5yr Supply Growth": "1,130"
+    },
+    {
+        "Suburb": "Hurstville Grove",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Illawong",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Ingleburn",
+        "5yr Supply Growth": 300
+    },
+    {
+        "Suburb": "Ingleside",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Jamisontown",
+        "5yr Supply Growth": 105
+    },
+    {
+        "Suburb": "Jannali",
+        "5yr Supply Growth": 95
+    },
+    {
+        "Suburb": "Jordan Springs",
+        "5yr Supply Growth": 260
+    },
+    {
+        "Suburb": "Kangaroo Point",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Kareela",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Katoomba",
+        "5yr Supply Growth": 85
+    },
+    {
+        "Suburb": "Kearns",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Kellyville",
+        "5yr Supply Growth": "1,495"
+    },
+    {
+        "Suburb": "Kellyville Ridge",
+        "5yr Supply Growth": 80
+    },
+    {
+        "Suburb": "Kemps Creek",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Kensington",
+        "5yr Supply Growth": 250
+    },
+    {
+        "Suburb": "Kenthurst",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Kentlyn",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Killara1",
+        "5yr Supply Growth": 195
+    },
+    {
+        "Suburb": "Killarney Heights",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Kings Langley",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Kings Park",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Kingsford",
+        "5yr Supply Growth": 165
+    },
+    {
+        "Suburb": "Kingsgrove",
+        "5yr Supply Growth": 110
+    },
+    {
+        "Suburb": "Kingswood",
+        "5yr Supply Growth": 565
+    },
+    {
+        "Suburb": "Kirkham",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Kirrawee",
+        "5yr Supply Growth": 245
+    },
+    {
+        "Suburb": "Kirribilli",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Kogarah",
+        "5yr Supply Growth": "1,110"
+    },
+    {
+        "Suburb": "Kogarah Bay",
+        "5yr Supply Growth": 65
+    },
+    {
+        "Suburb": "Ku-Ring-Gai Chase",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Kurmond",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Kurnell",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Kurraba Point",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Kurrajong",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Kurrajong Heights",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Kurrajong Hills",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Kyeemagh",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Kyle Bay",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "La Perouse",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Lakemba",
+        "5yr Supply Growth": 580
+    },
+    {
+        "Suburb": "Lakesland",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Lalor Park",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Lane Cove",
+        "5yr Supply Growth": 240
+    },
+    {
+        "Suburb": "Lane Cove North",
+        "5yr Supply Growth": 525
+    },
+    {
+        "Suburb": "Lane Cove West",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Lansdowne",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Lansvale",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Lapstone",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Laughtondale",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Lavender Bay",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Lawson",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Leets Vale",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Leichhardt",
+        "5yr Supply Growth": 230
+    },
+    {
+        "Suburb": "Len Waters Estate",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Leonay",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Leppington",
+        "5yr Supply Growth": "1,880"
+    },
+    {
+        "Suburb": "Lethbridge Park",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Leumeah",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Leura",
+        "5yr Supply Growth": 70
+    },
+    {
+        "Suburb": "Lewisham",
+        "5yr Supply Growth": 240
+    },
+    {
+        "Suburb": "Liberty Grove",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Lidcombe",
+        "5yr Supply Growth": "2,885"
+    },
+    {
+        "Suburb": "Lilli Pilli",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Lilyfield",
+        "5yr Supply Growth": 80
+    },
+    {
+        "Suburb": "Linden",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Lindfield1",
+        "5yr Supply Growth": 490
+    },
+    {
+        "Suburb": "Linley Point",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Little Bay",
+        "5yr Supply Growth": 105
+    },
+    {
+        "Suburb": "Liverpool",
+        "5yr Supply Growth": "2,240"
+    },
+    {
+        "Suburb": "Llandilo",
+        "5yr Supply Growth": 715
+    },
+    {
+        "Suburb": "Loftus",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Londonderry",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Long Point",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Longueville",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Lovett Bay",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Lower Macdonald",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Lower Portland",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Lucas Heights",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Luddenham",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Lugarno",
+        "5yr Supply Growth": 65
+    },
+    {
+        "Suburb": "Lurnea",
+        "5yr Supply Growth": 125
+    },
+    {
+        "Suburb": "Macquarie Fields",
+        "5yr Supply Growth": 85
+    },
+    {
+        "Suburb": "Macquarie Links",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Macquarie Park",
+        "5yr Supply Growth": "2,785"
+    },
+    {
+        "Suburb": "Maianbar",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Malabar",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Maldon",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Manly",
+        "5yr Supply Growth": 95
+    },
+    {
+        "Suburb": "Manly Vale",
+        "5yr Supply Growth": 90
+    },
+    {
+        "Suburb": "Maraylya",
+        "5yr Supply Growth": 430
+    },
+    {
+        "Suburb": "Marayong",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Maroota",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Maroubra",
+        "5yr Supply Growth": 375
+    },
+    {
+        "Suburb": "Marrickville",
+        "5yr Supply Growth": 995
+    },
+    {
+        "Suburb": "Marsden Park",
+        "5yr Supply Growth": "3,760"
+    },
+    {
+        "Suburb": "Marsfield",
+        "5yr Supply Growth": 95
+    },
+    {
+        "Suburb": "Mascot",
+        "5yr Supply Growth": "1,965"
+    },
+    {
+        "Suburb": "Matraville",
+        "5yr Supply Growth": 75
+    },
+    {
+        "Suburb": "Mays Hill",
+        "5yr Supply Growth": 480
+    },
+    {
+        "Suburb": "McGraths Hill",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "McMahons Point",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Meadowbank",
+        "5yr Supply Growth": 140
+    },
+    {
+        "Suburb": "Medlow Bath",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Megalong Valley",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mellong",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Melrose Park",
+        "5yr Supply Growth": 675
+    },
+    {
+        "Suburb": "Menai",
+        "5yr Supply Growth": 55
+    },
+    {
+        "Suburb": "Menangle",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Menangle Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Merrylands",
+        "5yr Supply Growth": "2,200"
+    },
+    {
+        "Suburb": "Merrylands West",
+        "5yr Supply Growth": 180
+    },
+    {
+        "Suburb": "Middle Cove",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Middle Dural",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Middleton Grange",
+        "5yr Supply Growth": 205
+    },
+    {
+        "Suburb": "Miller",
+        "5yr Supply Growth": 290
+    },
+    {
+        "Suburb": "Millers Point",
+        "5yr Supply Growth": 55
+    },
+    {
+        "Suburb": "Milperra",
+        "5yr Supply Growth": 135
+    },
+    {
+        "Suburb": "Milsons Passage",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Milsons Point",
+        "5yr Supply Growth": 210
+    },
+    {
+        "Suburb": "Minchinbury",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Minto",
+        "5yr Supply Growth": 95
+    },
+    {
+        "Suburb": "Minto Heights",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Miranda",
+        "5yr Supply Growth": 700
+    },
+    {
+        "Suburb": "Mogo Creek",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mona Vale",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Monterey",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Moore Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Moorebank",
+        "5yr Supply Growth": 550
+    },
+    {
+        "Suburb": "Morning Bay",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mortdale",
+        "5yr Supply Growth": 105
+    },
+    {
+        "Suburb": "Mortlake",
+        "5yr Supply Growth": 95
+    },
+    {
+        "Suburb": "Mosman",
+        "5yr Supply Growth": 135
+    },
+    {
+        "Suburb": "Mount Annan",
+        "5yr Supply Growth": 140
+    },
+    {
+        "Suburb": "Mount Colah",
+        "5yr Supply Growth": 185
+    },
+    {
+        "Suburb": "Mount Druitt",
+        "5yr Supply Growth": 840
+    },
+    {
+        "Suburb": "Mount Hunter",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mount Irvine",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mount Kuring-Gai",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Mount Lewis",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Mount Pritchard",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Mount Riverview",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mount Tomah",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mount Vernon",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Mount Victoria",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Mount Wilson",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mountain Lagoon",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mowbray Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Mulgoa",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Mulgrave",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Narellan",
+        "5yr Supply Growth": 195
+    },
+    {
+        "Suburb": "Narellan Vale",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Naremburn",
+        "5yr Supply Growth": 55
+    },
+    {
+        "Suburb": "Narrabeen",
+        "5yr Supply Growth": 125
+    },
+    {
+        "Suburb": "Narraweena",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Narwee",
+        "5yr Supply Growth": 200
+    },
+    {
+        "Suburb": "Nattai",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Nelson",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Neutral Bay",
+        "5yr Supply Growth": 210
+    },
+    {
+        "Suburb": "Newington",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Newport",
+        "5yr Supply Growth": 50
+    },
+    {
+        "Suburb": "Newtown",
+        "5yr Supply Growth": 195
+    },
+    {
+        "Suburb": "Normanhurst",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "North Balgowlah",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "North Bondi",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "North Curl Curl",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "North Epping",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "North Kellyville",
+        "5yr Supply Growth": "2,145"
+    },
+    {
+        "Suburb": "North Manly",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "North Narrabeen",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "North Parramatta",
+        "5yr Supply Growth": 110
+    },
+    {
+        "Suburb": "North Richmond",
+        "5yr Supply Growth": 295
+    },
+    {
+        "Suburb": "North Rocks",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "North Ryde",
+        "5yr Supply Growth": 50
+    },
+    {
+        "Suburb": "North St Marys",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "North Strathfield",
+        "5yr Supply Growth": 245
+    },
+    {
+        "Suburb": "North Sydney",
+        "5yr Supply Growth": 855
+    },
+    {
+        "Suburb": "North Turramurra",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "North Wahroonga",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "North Willoughby",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Northbridge",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Northmead",
+        "5yr Supply Growth": 65
+    },
+    {
+        "Suburb": "Northwood",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Norwest",
+        "5yr Supply Growth": "1,670"
+    },
+    {
+        "Suburb": "Oakdale",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Oakhurst",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Oakville",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Oatlands",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Oatley",
+        "5yr Supply Growth": 65
+    },
+    {
+        "Suburb": "Old Guildford",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Old Toongabbie",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Oran Park",
+        "5yr Supply Growth": "1,690"
+    },
+    {
+        "Suburb": "Orangeville",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Orchard Hills",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Oxford Falls",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Oxley Park",
+        "5yr Supply Growth": 155
+    },
+    {
+        "Suburb": "Oyster Bay",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Paddington",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Padstow",
+        "5yr Supply Growth": 115
+    },
+    {
+        "Suburb": "Padstow Heights",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Pagewood",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Palm Beach",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Panania",
+        "5yr Supply Growth": 110
+    },
+    {
+        "Suburb": "Parklea",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Parramatta",
+        "5yr Supply Growth": "4,305"
+    },
+    {
+        "Suburb": "Peakhurst",
+        "5yr Supply Growth": 285
+    },
+    {
+        "Suburb": "Peakhurst Heights",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Pemulwuy",
+        "5yr Supply Growth": 475
+    },
+    {
+        "Suburb": "Pendle Hill",
+        "5yr Supply Growth": 240
+    },
+    {
+        "Suburb": "Pennant Hills",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Penrith",
+        "5yr Supply Growth": "2,410"
+    },
+    {
+        "Suburb": "Penshurst",
+        "5yr Supply Growth": 60
+    },
+    {
+        "Suburb": "Perrys Crossing",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Petersham",
+        "5yr Supply Growth": 485
+    },
+    {
+        "Suburb": "Pheasants Nest",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Phillip Bay",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Picnic Point",
+        "5yr Supply Growth": 70
+    },
+    {
+        "Suburb": "Picton",
+        "5yr Supply Growth": 115
+    },
+    {
+        "Suburb": "Pitt Town",
+        "5yr Supply Growth": 70
+    },
+    {
+        "Suburb": "Pitt Town Bottoms",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Pleasure Point",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Plumpton",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Point Piper",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Port Botany",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Port Hacking",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Potts Hill",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Potts Point",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Prairiewood",
+        "5yr Supply Growth": 115
+    },
+    {
+        "Suburb": "Prestons",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Prospect",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Punchbowl",
+        "5yr Supply Growth": 760
+    },
+    {
+        "Suburb": "Putney",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Putty",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Pymble1",
+        "5yr Supply Growth": 280
+    },
+    {
+        "Suburb": "Pyrmont",
+        "5yr Supply Growth": 295
+    },
+    {
+        "Suburb": "Quakers Hill",
+        "5yr Supply Growth": 495
+    },
+    {
+        "Suburb": "Queens Park",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Queenscliff",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Raby",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Ramsgate",
+        "5yr Supply Growth": 85
+    },
+    {
+        "Suburb": "Ramsgate Beach",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Randwick",
+        "5yr Supply Growth": 675
+    },
+    {
+        "Suburb": "Razorback",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Redfern",
+        "5yr Supply Growth": 900
+    },
+    {
+        "Suburb": "Regents Park",
+        "5yr Supply Growth": 100
+    },
+    {
+        "Suburb": "Regentville",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Revesby",
+        "5yr Supply Growth": 125
+    },
+    {
+        "Suburb": "Revesby Heights",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Rhodes",
+        "5yr Supply Growth": "1,100"
+    },
+    {
+        "Suburb": "Richmond",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Richmond Lowlands",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Riverstone",
+        "5yr Supply Growth": "1,575"
+    },
+    {
+        "Suburb": "Riverview",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Riverwood",
+        "5yr Supply Growth": 380
+    },
+    {
+        "Suburb": "Rockdale",
+        "5yr Supply Growth": "1,010"
+    },
+    {
+        "Suburb": "Rodd Point",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Rookwood",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Rooty Hill",
+        "5yr Supply Growth": 220
+    },
+    {
+        "Suburb": "Ropes Crossing",
+        "5yr Supply Growth": 50
+    },
+    {
+        "Suburb": "Rose Bay",
+        "5yr Supply Growth": 260
+    },
+    {
+        "Suburb": "Rosebery",
+        "5yr Supply Growth": "1,015"
+    },
+    {
+        "Suburb": "Rosehill",
+        "5yr Supply Growth": 220
+    },
+    {
+        "Suburb": "Roselands",
+        "5yr Supply Growth": 600
+    },
+    {
+        "Suburb": "Rosemeadow",
+        "5yr Supply Growth": 75
+    },
+    {
+        "Suburb": "Roseville",
+        "5yr Supply Growth": 260
+    },
+    {
+        "Suburb": "Roseville Chase",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Rossmore",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Rouse Hill",
+        "5yr Supply Growth": "2,965"
+    },
+    {
+        "Suburb": "Royal National Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Rozelle",
+        "5yr Supply Growth": 195
+    },
+    {
+        "Suburb": "Ruse",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Rushcutters Bay",
+        "5yr Supply Growth": 50
+    },
+    {
+        "Suburb": "Russell Lea",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Rydalmere",
+        "5yr Supply Growth": 170
+    },
+    {
+        "Suburb": "Ryde",
+        "5yr Supply Growth": 560
+    },
+    {
+        "Suburb": "Sackville",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Sackville North",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Sadleir",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Sandringham",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Sandy Point",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Sans Souci",
+        "5yr Supply Growth": 220
+    },
+    {
+        "Suburb": "Scheyville",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Schofields",
+        "5yr Supply Growth": "2,895"
+    },
+    {
+        "Suburb": "Scotland Island",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Seaforth",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "Sefton",
+        "5yr Supply Growth": 80
+    },
+    {
+        "Suburb": "Seven Hills",
+        "5yr Supply Growth": 795
+    },
+    {
+        "Suburb": "Shalvey",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Shanes Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Silverdale",
+        "5yr Supply Growth": 140
+    },
+    {
+        "Suburb": "Silverwater",
+        "5yr Supply Growth": 55
+    },
+    {
+        "Suburb": "Singletons Mill",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Smeaton Grange",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Smithfield",
+        "5yr Supply Growth": 100
+    },
+    {
+        "Suburb": "South Coogee",
+        "5yr Supply Growth": 95
+    },
+    {
+        "Suburb": "South Granville",
+        "5yr Supply Growth": 275
+    },
+    {
+        "Suburb": "South Hurstville",
+        "5yr Supply Growth": 100
+    },
+    {
+        "Suburb": "South Maroota",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "South Penrith",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "South Turramurra",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "South Wentworthville",
+        "5yr Supply Growth": 425
+    },
+    {
+        "Suburb": "South Windsor",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Spring Farm",
+        "5yr Supply Growth": 710
+    },
+    {
+        "Suburb": "Springwood",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "St Albans",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "St Andrews",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "St Clair",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "St Helens Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "St Ives",
+        "5yr Supply Growth": 205
+    },
+    {
+        "Suburb": "St Ives Chase",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "St Johns Park",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "St Leonards",
+        "5yr Supply Growth": "1,840"
+    },
+    {
+        "Suburb": "St Marys",
+        "5yr Supply Growth": 805
+    },
+    {
+        "Suburb": "St Peters",
+        "5yr Supply Growth": 345
+    },
+    {
+        "Suburb": "Stanhope Gardens",
+        "5yr Supply Growth": 100
+    },
+    {
+        "Suburb": "Stanmore",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Strathfield",
+        "5yr Supply Growth": 595
+    },
+    {
+        "Suburb": "Strathfield South",
+        "5yr Supply Growth": 80
+    },
+    {
+        "Suburb": "Summer Hill",
+        "5yr Supply Growth": 115
+    },
+    {
+        "Suburb": "Sun Valley",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Surry Hills",
+        "5yr Supply Growth": 685
+    },
+    {
+        "Suburb": "Sutherland",
+        "5yr Supply Growth": 690
+    },
+    {
+        "Suburb": "Sydenham",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Sydney",
+        "5yr Supply Growth": "1,855"
+    },
+    {
+        "Suburb": "Sydney Olympic Park",
+        "5yr Supply Growth": "1,720"
+    },
+    {
+        "Suburb": "Sylvania",
+        "5yr Supply Growth": 175
+    },
+    {
+        "Suburb": "Sylvania Waters",
+        "5yr Supply Growth": 45
+    },
+    {
+        "Suburb": "Tahmoor",
+        "5yr Supply Growth": 205
+    },
+    {
+        "Suburb": "Tamarama",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Taren Point",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Telopea",
+        "5yr Supply Growth": 155
+    },
+    {
+        "Suburb": "Tempe",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Ten Mile Hollow",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Tennyson",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Tennyson Point",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Terrey Hills",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "The Oaks",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "The Ponds",
+        "5yr Supply Growth": 265
+    },
+    {
+        "Suburb": "The Rocks",
+        "5yr Supply Growth": 65
+    },
+    {
+        "Suburb": "The Slopes",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Theresa Park",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Thirlmere",
+        "5yr Supply Growth": 345
+    },
+    {
+        "Suburb": "Thornleigh",
+        "5yr Supply Growth": 185
+    },
+    {
+        "Suburb": "Toongabbie",
+        "5yr Supply Growth": 425
+    },
+    {
+        "Suburb": "Tregear",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Turramurra",
+        "5yr Supply Growth": 145
+    },
+    {
+        "Suburb": "Turrella",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Ultimo",
+        "5yr Supply Growth": 440
+    },
+    {
+        "Suburb": "Upper Colo",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Upper Macdonald",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Valley Heights",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Varroville",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Vaucluse",
+        "5yr Supply Growth": 80
+    },
+    {
+        "Suburb": "Villawood",
+        "5yr Supply Growth": 425
+    },
+    {
+        "Suburb": "Vineyard",
+        "5yr Supply Growth": 110
+    },
+    {
+        "Suburb": "Voyager Point",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Wahroonga",
+        "5yr Supply Growth": 110
+    },
+    {
+        "Suburb": "Waitara",
+        "5yr Supply Growth": 185
+    },
+    {
+        "Suburb": "Wakeley",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Wallacia",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Wareemba",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Warragamba",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Warrawee1",
+        "5yr Supply Growth": 90
+    },
+    {
+        "Suburb": "Warriewood",
+        "5yr Supply Growth": 250
+    },
+    {
+        "Suburb": "Warrimoo",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Warwick Farm",
+        "5yr Supply Growth": 90
+    },
+    {
+        "Suburb": "Waterfall",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Waterloo",
+        "5yr Supply Growth": "1,485"
+    },
+    {
+        "Suburb": "Watsons Bay",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Wattle Grove",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Waverley",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Waverton",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Webbs Creek",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Wedderburn",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Wentworth Falls",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Wentworth Point",
+        "5yr Supply Growth": 740
+    },
+    {
+        "Suburb": "Wentworthville",
+        "5yr Supply Growth": 925
+    },
+    {
+        "Suburb": "Werombi",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Werrington",
+        "5yr Supply Growth": 365
+    },
+    {
+        "Suburb": "Werrington County",
+        "5yr Supply Growth": 50
+    },
+    {
+        "Suburb": "Werrington Downs",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "West Hoxton",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "West Pennant Hills",
+        "5yr Supply Growth": 40
+    },
+    {
+        "Suburb": "West Pymble",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "West Ryde",
+        "5yr Supply Growth": 300
+    },
+    {
+        "Suburb": "Westleigh",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Westmead",
+        "5yr Supply Growth": "1,170"
+    },
+    {
+        "Suburb": "Wetherill Park",
+        "5yr Supply Growth": 35
+    },
+    {
+        "Suburb": "Whalan",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Whale Beach",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Wheeler Heights",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Wheeny Creek",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Wilberforce",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Wiley Park",
+        "5yr Supply Growth": 390
+    },
+    {
+        "Suburb": "Willmot",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Willoughby",
+        "5yr Supply Growth": 355
+    },
+    {
+        "Suburb": "Willoughby East",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Wilton",
+        "5yr Supply Growth": 280
+    },
+    {
+        "Suburb": "Windsor",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Windsor Downs",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Winmalee",
+        "5yr Supply Growth": 20
+    },
+    {
+        "Suburb": "Winston Hills",
+        "5yr Supply Growth": 65
+    },
+    {
+        "Suburb": "Wisemans Ferry",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Wolli Creek",
+        "5yr Supply Growth": 580
+    },
+    {
+        "Suburb": "Wollstonecraft",
+        "5yr Supply Growth": 30
+    },
+    {
+        "Suburb": "Womerah",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Woodbine",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Woodcroft",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Woodford",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Woodpark",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Woollahra",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Woolloomooloo",
+        "5yr Supply Growth": 160
+    },
+    {
+        "Suburb": "Woolooware",
+        "5yr Supply Growth": 230
+    },
+    {
+        "Suburb": "Woolwich",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Woronora",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Woronora Dam",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Woronora Heights",
+        "5yr Supply Growth": 15
+    },
+    {
+        "Suburb": "Wrights Creek",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Yagoona",
+        "5yr Supply Growth": 550
+    },
+    {
+        "Suburb": "Yanderra",
+        "5yr Supply Growth": 10
+    },
+    {
+        "Suburb": "Yarramundi",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Yarrawarrah",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Yellow Rock",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Yennora",
+        "5yr Supply Growth": 5
+    },
+    {
+        "Suburb": "Yerranderie",
+        "5yr Supply Growth": "-"
+    },
+    {
+        "Suburb": "Yowie Bay",
+        "5yr Supply Growth": 25
+    },
+    {
+        "Suburb": "Zetland",
+        "5yr Supply Growth": "2,360"
+    }
+]
